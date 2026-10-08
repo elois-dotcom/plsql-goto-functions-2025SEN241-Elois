@@ -34,4 +34,5 @@ Rules I learned:
 In A4 I rewrote the salary review using `IF / ELSIF / ELSE`. It gave the same result and was shorter and easier to follow, which is why GOTO is rarely used in modern code.
 
 ## Notes (AI usage)
-I used an AI assistant (Claude) to help draft the initial SQL structure. I then ran, tested and reviewed all code myself and can explain it. The reflection is in my own words.
+I used an AI assistant (Claude) to help draft the initial SQL structure. I then ran, tested and reviewed all code myself and can explain it. The reflection is in my own words. Generating clear mds.
+I used an AI assistant (GEMINI) for research, clear examples and explanation.
